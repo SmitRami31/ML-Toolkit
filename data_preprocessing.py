@@ -15,7 +15,7 @@ def detect_column_types(df):
     }
     
     for col in df.columns:
-        # Check if column is numeric
+        # Check if column is numeric 
         if pd.api.types.is_numeric_dtype(df[col]):
             # Check if it's likely an ID column
             if col.lower().endswith('id') or col.lower() == 'id':
