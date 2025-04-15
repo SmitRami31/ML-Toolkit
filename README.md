@@ -23,3 +23,35 @@
  Enhanced preprocessing pipeline for mixed-type columns and categorical encoding
 
  Built-in support for sample datasets (Iris, Diabetes, Boston Housing)
+
+ ## Dependencies
+streamlit
+
+pandas, numpy, matplotlib, seaborn
+
+scikit-learn
+
+xgboost (optional)
+
+lightgbm (optional)
+
+Custom modules required:
+
+model_utils.py
+
+visualization.py
+
+data_preprocessing.py
+
+enhanced_preprocessing.py
+
+Make sure these files are present in the same directory.
+
+## Use Cases
+Rapid prototyping of ML workflows
+
+Model benchmarking and comparison
+
+Educational tool for exploring supervised learning
+
+Automated preprocessing insights
