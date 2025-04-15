@@ -10,7 +10,7 @@ def create_model_comparison_chart(results, task_type):
     if not results:
         return None
     
-    # Extract model names and performance metrics
+    # Extract model names and performance metrics 
     model_names = list(results.keys())
     
     if task_type == 'Classification':
