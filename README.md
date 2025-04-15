@@ -1,6 +1,6 @@
 # ML-Toolkit
 
-## An interactive Streamlit web app that allows users to upload CSV datasets, choose between classification or regression tasks, and compare multiple machine learning models with optional hyperparameter tuning and advanced preprocessing.
+- **An interactive Streamlit web app that allows users to upload CSV datasets, choose between classification or regression tasks, and compare multiple machine learning models with optional hyperparameter tuning and advanced preprocessing.**
 
 ## Features:
 - **Upload your own dataset (CSV)**
