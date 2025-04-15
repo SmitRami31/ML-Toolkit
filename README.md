@@ -10,11 +10,11 @@
 
 - **Select your target column and exclude unnecessary features**
 
-- **Compare performance across multiple ML models: Logistic Regression, Decision Tree, Random Forest, SVM, MLP, KNN, Gradient Boosting, AdaBoost, XGBoost, LightGBM (if available)**
+- **Compare performance across multiple ML models:** Logistic Regression, Decision Tree, Random Forest, SVM, MLP, KNN, Gradient Boosting, AdaBoost, XGBoost, LightGBM (if available)
 
 - **Optional hyperparameter tuning**
 
-- **Visual performance metrics: Classification: Accuracy, Confusion Matrix, ROC Curve, Feature Importance**
+- **Visual performance metrics:** Classification: Accuracy, Confusion Matrix, ROC Curve, Feature Importance
 
 - **Regression: R², RMSE, MAE, Residual Plots, Error Distributions**
 
