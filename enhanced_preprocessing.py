@@ -13,7 +13,7 @@ from categorical_handling import (
 
 def enhanced_preprocess_data(df, target_column, task_type):
 
-    # Make a copy to avoid modifying the original
+    # Make a copy to avoid modifying the original 
     df_processed = df.copy()
     
     # Detect column types
