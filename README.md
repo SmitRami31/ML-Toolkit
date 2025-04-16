@@ -37,7 +37,7 @@
 
 - **lightgbm (optional)**
 
-## Custom modules required:
+## Custom modules:
 
 - **model_utils.py**
 
